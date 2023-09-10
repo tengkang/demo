@@ -29,4 +29,8 @@ public class DemoController {
     }
 
 
+    @GetMapping("/ddd")
+    public String ddd() {
+        return "wwwwwwwwwwq";
+    }
 }
