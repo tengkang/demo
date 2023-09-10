@@ -18,6 +18,10 @@ public class DemoController {
         return "aaaaaaaa";
     }
 
+    @GetMapping("/bbb")
+    public String bbb() {
+        return "bbbbbbb";
+    }
 
 
 }
