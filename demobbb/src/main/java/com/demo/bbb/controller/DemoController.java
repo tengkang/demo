@@ -20,7 +20,7 @@ public class DemoController {
 
     @GetMapping("/bbb")
     public String bbb() {
-        return "ssssssssssss";
+        return "xxxx";
     }
 
     @GetMapping("/ccc")
