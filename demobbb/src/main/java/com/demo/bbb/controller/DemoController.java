@@ -20,12 +20,12 @@ public class DemoController {
 
     @GetMapping("/bbb")
     public String bbb() {
-        return "wwwww";
+        return "mmm";
     }
 
     @GetMapping("/ccc")
     public String ccc() {
-        return "ccccc";
+        return "qqqqq";
     }
 
 
