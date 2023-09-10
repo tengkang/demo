@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: demoboot
+  profiles:
+    active: dev    #开发测试环境
