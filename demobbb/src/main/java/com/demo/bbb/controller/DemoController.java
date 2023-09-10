@@ -23,5 +23,10 @@ public class DemoController {
         return "bbbbbbb";
     }
 
+    @GetMapping("/ccc")
+    public String ccc() {
+        return "ccccc";
+    }
+
 
 }
